@@ -4,6 +4,7 @@
   "description": "Collaborative editor channel server",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "test"
   },
   "repository": {
@@ -15,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/rlaqltmxm/mariee-editor-server/issues"
   },
-  "homepage": "https://github.com/rlaqltmxm/mariee-editor-server#readme"
+  "homepage": "https://github.com/rlaqltmxm/mariee-editor-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pusher": "^3.0.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
 }
