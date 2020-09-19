@@ -1,0 +1,19 @@
+{
+  "name": "mariee-editor-server",
+  "version": "1.0.0",
+  "description": "Collaborative editor channel server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlaqltmxm/mariee-editor-server.git"
+  },
+  "author": "Mari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlaqltmxm/mariee-editor-server/issues"
+  },
+  "homepage": "https://github.com/rlaqltmxm/mariee-editor-server#readme"
+}
